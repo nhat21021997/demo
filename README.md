@@ -1,2 +1,2 @@
 # demo
-khong co gi
+hoc git cang nhanh cang tot
